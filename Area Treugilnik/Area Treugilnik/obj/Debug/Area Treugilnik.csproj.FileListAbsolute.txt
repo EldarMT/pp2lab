@@ -1,0 +1,6 @@
+C:\Users\asus\source\repos\Area Treugilnik\Area Treugilnik\bin\Debug\Area Treugilnik.exe.config
+C:\Users\asus\source\repos\Area Treugilnik\Area Treugilnik\bin\Debug\Area Treugilnik.exe
+C:\Users\asus\source\repos\Area Treugilnik\Area Treugilnik\bin\Debug\Area Treugilnik.pdb
+C:\Users\asus\source\repos\Area Treugilnik\Area Treugilnik\obj\Debug\Area Treugilnik.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\Area Treugilnik\Area Treugilnik\obj\Debug\Area Treugilnik.exe
+C:\Users\asus\source\repos\Area Treugilnik\Area Treugilnik\obj\Debug\Area Treugilnik.pdb
