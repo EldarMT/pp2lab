@@ -1,0 +1,6 @@
+C:\Users\asus\source\repos\lab2n1\lab2\bin\Debug\lab2.exe.config
+C:\Users\asus\source\repos\lab2n1\lab2\bin\Debug\lab2.exe
+C:\Users\asus\source\repos\lab2n1\lab2\bin\Debug\lab2.pdb
+C:\Users\asus\source\repos\lab2n1\lab2\obj\Debug\lab2.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\lab2n1\lab2\obj\Debug\lab2.exe
+C:\Users\asus\source\repos\lab2n1\lab2\obj\Debug\lab2.pdb
