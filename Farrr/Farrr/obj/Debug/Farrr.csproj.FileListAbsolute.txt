@@ -1,0 +1,6 @@
+C:\Users\asus\source\repos\Farrr\Farrr\obj\Debug\Farrr.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\Farrr\Farrr\bin\Debug\Farrr.exe.config
+C:\Users\asus\source\repos\Farrr\Farrr\bin\Debug\Farrr.exe
+C:\Users\asus\source\repos\Farrr\Farrr\bin\Debug\Farrr.pdb
+C:\Users\asus\source\repos\Farrr\Farrr\obj\Debug\Farrr.exe
+C:\Users\asus\source\repos\Farrr\Farrr\obj\Debug\Farrr.pdb

@@ -1,0 +1,6 @@
+C:\Users\asus\source\repos\lab33\lab33\bin\Debug\lab33.exe.config
+C:\Users\asus\source\repos\lab33\lab33\bin\Debug\lab33.exe
+C:\Users\asus\source\repos\lab33\lab33\bin\Debug\lab33.pdb
+C:\Users\asus\source\repos\lab33\lab33\obj\Debug\lab33.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\lab33\lab33\obj\Debug\lab33.exe
+C:\Users\asus\source\repos\lab33\lab33\obj\Debug\lab33.pdb

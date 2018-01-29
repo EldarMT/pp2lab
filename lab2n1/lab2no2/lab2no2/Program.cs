@@ -20,7 +20,7 @@ namespace lab2no2
                 return cnt;
             }
             int minn = 10000000;
-            string line = File.ReadAllText( @"C:\Users\asus\Desktop\ppppp\test.txt");
+            string line = File.ReadAllText(@"C:\Users\asus\Desktop\Новая папка\lab2n1\lab2no2\lab2no2\t.txt");
             string[] a = line.Split(' ');
             foreach (string s in a)
             {
@@ -28,7 +28,7 @@ namespace lab2no2
                 if ((test(l) == 2) && (minn > l))
                     minn = l;
             }
-            StreamWriter sr = new StreamWriter( @"C:\Users\asus\Desktop\ppppp\answer.txt");
+            StreamWriter sr = new StreamWriter(@"C:\Users\asus\Desktop\Новая папка\lab2n1\lab2no2\lab2no2\a.txt");
             sr.WriteLine(minn);
             sr.Close();
             Console.ReadKey();

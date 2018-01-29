@@ -11,7 +11,7 @@ namespace lab2
     {
         static void Main(string[] args)
         {
-            string lineb = File.ReadAllText(@"C:\PP2\test.txt");
+            string lineb = File.ReadAllText(@"C:\Users\asus\Desktop\Новая папка\lab2n1\lab2\t.txt");
 
 
 
